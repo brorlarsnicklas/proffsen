@@ -906,12 +906,12 @@ footer strong {
 /* Four-color dark theme */
 :root {
   color-scheme: dark;
-  --paper: #151418;
-  --surface: #2f2f35;
-  --accent: #715a5a;
+  --paper: #082032;
+  --surface: #2C394B;
+  --accent: #1c2730;
   --ink: #d3dad9;
   --muted: #d3dad9;
-  --line: #6d3b3b;
+  --line: #000000;
   --lime: #d3dad9;
 }
 
