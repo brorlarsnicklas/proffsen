@@ -42,7 +42,7 @@ async function importFile(event: Event) {
   <main>
     <section class="hero">
       <div><p class="eyebrow">Get ready to rumble</p><h1>Öl, Chips & Gött häng.<br><span>En vinnare.</span></h1><p class="intro">Lotta lagen, knäpp burken och släpp pucken.</p></div>
-      <div class="rink" aria-hidden="true"><div class="rink-line left"></div><div class="rink-line right"></div><div class="center-line"></div><div class="circle"></div><div class="face f1"></div><div class="face f2"></div><div class="face f3"></div><div class="face f4"></div><div class="rink-title">GAME<br>ON<span>EST. BY FRIENDS</span></div><div class="rink-puck"></div></div>
+      <div class="rink" aria-hidden="true"><div class="rink-line left"></div><div class="rink-line right"></div><div class="center-line"></div><div class="circle"></div><div class="face f1"></div><div class="face f2"></div><div class="face f3"></div><div class="face f4"></div><div class="rink-title">GAME<br>ON<span>EST. BY PRÖFFS</span></div><div class="rink-puck"></div></div>
     </section>
     <div class="dashboard">
       <aside>
